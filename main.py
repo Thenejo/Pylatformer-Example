@@ -1,6 +1,6 @@
 import pygame
-from data.scripts.Entity import *
-from data.scripts.Animation import *
+from Data.scripts.Entity import *
+from Data.scripts.Animation import *
 from Player import *
 import Block
 import json,random
