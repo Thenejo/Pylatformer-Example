@@ -1,7 +1,7 @@
 import pygame
-from data.scripts.Entity import *
-from data.scripts.Animation import *
-from data.scripts.coreFunctions import *
+from Data.scripts.Entity import *
+from Data.scripts.Animation import *
+from Data.scripts.coreFunctions import *
 
 
 
